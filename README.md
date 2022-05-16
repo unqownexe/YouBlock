@@ -5,16 +5,16 @@ Bu uygulama sayesinde aptal ordusunun <b>heval c5, çakkal çukkal, bergen, müs
 
 
 # Özellikler
-~ İstediğin zaman programı kapatabilirsin.
-~ Gizlenmiş
-~ Özelleştirilebilir
-~ Açık Kaynak
+~ İstediğin zaman programı kapatabilirsin.<br>
+~ Gizlenmiş<br>
+~ Özelleştirilebilir<br>
+~ Açık Kaynak<br>
 
 
 # Bilmen gerekenler
-~ Sorumluluk kabul etmiyorum, zaten bir sorun olacağını da sanmıyorum.
-~ Programı kapatmak için Bildirim seçeneklerinden bildirimin üzerine çift tıklamalısın.
-~ Bilgisayar açıldığında programında açılmasını istiyorsan, Çalıştıra <b>shell:startup</b> yaz ve içerisine .exe dosyasını at.
+~ Sorumluluk kabul etmiyorum, zaten bir sorun olacağını da sanmıyorum.<br>
+~ Programı kapatmak için Bildirim seçeneklerinden bildirimin üzerine çift tıklamalısın.<br>
+~ Bilgisayar açıldığında programında açılmasını istiyorsan, Çalıştıra <b>shell:startup</b> yaz ve içerisine .exe dosyasını at.<br>
 
 ## İletişim & Yardım İçin
 - Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)
