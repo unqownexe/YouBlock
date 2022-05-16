@@ -15,7 +15,8 @@ Bu uygulama sayesinde aptal ordusunun <b>heval c5, çakkal çukkal, bergen, müs
 ~ Sorumluluk kabul etmiyorum, zaten bir sorun olacağını da sanmıyorum.<br>
 ~ Programı kapatmak için Bildirim seçeneklerinden bildirimin üzerine çift tıklamalısın.<br>
 ~ Bilgisayar açıldığında programında açılmasını istiyorsan, Çalıştıra <b>shell:startup</b> yaz ve içerisine .exe dosyasını at.<br>
-~ Programı kapattıktan sonra tekrar açman için programı çalıştırmalısın.
+~ Programı kapattıktan sonra tekrar açman için programı çalıştırmalısın.<br>
+~ Dilersen Debug klasöründeki .exe'yi kullanabilirsin. | <b>Standart şifre: 405930</b><br>
 
 ## İletişim & Yardım İçin
 - Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)
