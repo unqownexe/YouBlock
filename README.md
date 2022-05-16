@@ -1,7 +1,7 @@
 # YouBlock
 Aq okulunda 'Halay' dinlemekten sıkıldıysan bu program tam sana göre.
 
-Bu uygulama sayesinde aptal ordusunun <b>heval c5, çakkal çukkal, bergen, müslüm gürses</b> şarkıları dinlemezsiniz.
+Bu uygulama sayesinde aptal ordusunun <b>heval c5, çakkal çukkal, bergen, müslüm gürses</b> şarkılarını dinlemek zorunda kalmazsınız.
 
 
 # Özellikler
