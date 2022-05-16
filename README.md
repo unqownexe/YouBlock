@@ -1,4 +1,4 @@
 # YouBlock
 Aq okulunda 'Halay' dinlemekten sıkıldıysan bu program tam sana göre.
 
-Aptal ordusunun heval, çakkal çukkal dinlemezsiniz.
+Aptal ordusunun <b>heval c5, çakkal çukkal, bergen, müslüm gürses</b> şarkıları dinlemezsiniz.
