@@ -1,0 +1,14 @@
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\bin\Debug\YouBlock.exe
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\bin\Debug\YouBlock.pdb
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\bin\Debug\MetroFramework.Design.dll
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\bin\Debug\MetroFramework.dll
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.csproj.AssemblyReference.cache
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.Form1.resources
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.Properties.Resources.resources
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.csproj.GenerateResource.cache
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.csproj.CoreCompileInputs.cache
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.csproj.CopyComplete
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.exe
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\obj\Debug\YouBlock.pdb
+C:\Users\Unqown_Exe\source\repos\YouBlock\YouBlock\bin\Debug\YouBlock.exe.config
