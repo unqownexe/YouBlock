@@ -1,5 +1,8 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Diagnostics;
+using System.Linq;
+using System.Threading.Tasks;
 using System.Windows.Forms;
 
 namespace YouBlock
@@ -9,27 +12,34 @@ namespace YouBlock
         [STAThread]
         static void Main()
         {
+
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
-            while (true)
+
+
+            Console.WriteLine("Started");
+            for (int i = 0; i < 1;)
             {
-                Process[] procsChrome = Process.GetProcesses();
-
-                foreach (Process proc in procsChrome)
+                Process[] procsChrome = Process.GetProcessesByName("chrome");
+                if (procsChrome.Length >= 1)
                 {
-                    if (!String.IsNullOrEmpty(proc.MainWindowTitle))
-                    {
-                        if (proc.MainWindowTitle.Contains("YouTube"))
-                        {
-                            proc.Kill();
-                            MessageBox.Show("MEB.Certificate is Undefined","Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
 
+                    foreach (Process proc in procsChrome)
+                    {
+                        if (!String.IsNullOrEmpty(proc.MainWindowTitle))
+                        {
+                            if (proc.MainWindowTitle.Contains("YouTube"))
+                            {
+                                proc.Kill();
+                                MessageBox.Show("MEB.Certificate is Undefined", "Error", MessageBoxButtons.OK, MessageBoxIcon.Error);
+
+                            }
                         }
                     }
                 }
             }
-            
+            Application.Run(new Form1());
+
         }
     }
 }
