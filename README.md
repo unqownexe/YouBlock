@@ -24,6 +24,6 @@ Bu uygulama sayesinde aptal ordusunun <b>heval c5, çakkal çukkal, bergen, müs
 
 ## İletişim & Yardım İçin
 - Discord: [Unqown Exe#4214](https://discord.com/users/791255637920972801)
-- Website: [www.unqown.xyz](https://www.unqown.xyz)
-- Discord Sunucusu: [www.unqown.xyz/davet](https://www.unqown.xyz/davet)
-- İletişim: [www.unqown.xyz/iletisim](https://www.unqown.xyz/iletisim)
+- Website: [www.unqown.com](https://www.unqown.com)
+- Discord Sunucusu: [www.unqown.com](https://www.unqown.com)
+- İletişim: [www.unqown.xyz/iletisim](https://www.unqown.com)
